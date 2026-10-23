@@ -1,4 +1,4 @@
-# Eco-Loop Building Agents
+# IBEMS-Intelligent Building Energy Management System
 
 AI-powered building energy optimization system combining EnergyPlus simulation with intelligent control strategies.
 
