@@ -1,4 +1,4 @@
-# Eco-Loop Building Agents - System Architecture
+# Intelligent-Building-Energy-Management-System - System Architecture
 
 ## Overview
 
